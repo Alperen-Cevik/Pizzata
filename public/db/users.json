@@ -1,0 +1,66 @@
+[
+  {
+    "name": "User1",
+    "email": "user1@example.com",
+    "password": "password1",
+    "role": "User",
+    "_id": 1,
+    "banned": false
+  },
+  {
+    "name": "User2",
+    "email": "user2@example.com",
+    "password": "password2",
+    "role": "User",
+    "_id": 2,
+    "banned": true
+  },
+  {
+    "name": "User3",
+    "email": "user3@example.com",
+    "password": "password3",
+    "role": "User",
+    "_id": 3,
+    "banned": false
+  },
+  {
+    "name": "User4",
+    "email": "user4@example.com",
+    "password": "password4",
+    "role": "User",
+    "_id": 4,
+    "banned": false
+  },
+  {
+    "name": "Admin1",
+    "email": "admin1@example.com",
+    "password": "adminpassword1",
+    "role": "Admin",
+    "_id": 5,
+    "banned": false
+  },
+  {
+    "name": "Admin2",
+    "email": "admin2@example.com",
+    "password": "adminpassword2",
+    "role": "Admin",
+    "_id": 6,
+    "banned": false
+  },
+  {
+    "name": "Courier1",
+    "email": "courier1@example.com",
+    "password": "courierpassword1",
+    "role": "Courier",
+    "_id": 7,
+    "banned": false
+  },
+  {
+    "name": "Restaurant1",
+    "email": "restaurant1@example.com",
+    "password": "restaurantpassword1",
+    "role": "Restaurant",
+    "_id": 8,
+    "banned": false
+  }
+]
