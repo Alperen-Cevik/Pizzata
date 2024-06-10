@@ -213,6 +213,10 @@ app.delete('/menuitems', async (req, res) => {
     }
 });
 
+app.get('/orders', async (req, res) => {
+    
+});
+
 app.get('/register', async (req, res) => {
     const { name, email, password, phone, street, postal, city, country, role } = req.query;
 
